@@ -16,4 +16,3 @@ class LoginPage(BasePage):
 
     def get_error_message(self):
         return self.find_element(self.ERROR_MESSAGE).text
-

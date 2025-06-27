@@ -51,4 +51,3 @@ class ReqresClient:
 
     def get_resource(self, resource_id):
         return self._send_request("GET", f"unknown/{resource_id}")
-
