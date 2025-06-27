@@ -1,6 +1,6 @@
 # OTUS
 
-## How to Run
+## Как запустить
 1. Установка зависимостей: `pip install -r requirements.txt`
 2. Запуск API Тестов: `pytest api/tests -v --alluredir=allure-results`
 3. Запуск UI Тестов: `pytest ui/tests -v --alluredir=allure-results`
