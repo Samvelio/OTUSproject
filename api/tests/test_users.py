@@ -48,3 +48,4 @@ class TestUsers:
     def test_delete_user(self):
         response = client.delete_user(2)
         assert response.status_code == 204
+

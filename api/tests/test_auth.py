@@ -23,3 +23,4 @@ class TestAuth:
         response = client.login(credentials)
         assert response.status_code == 400
         assert "error" in response.json()
+

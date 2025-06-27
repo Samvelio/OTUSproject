@@ -32,3 +32,4 @@ class TestLogin:
         login_page = LoginPage(browser)
         login_page.login(username, password)
         assert "Epic sadface: Username and password do not match" in login_page.get_error_message()
+

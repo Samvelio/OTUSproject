@@ -27,3 +27,4 @@ class TestCart:
         inventory_page.add_first_product_to_cart()
         inventory_page.add_first_product_to_cart()  # Remove button appears
         assert inventory_page.get_cart_count() == 0
+

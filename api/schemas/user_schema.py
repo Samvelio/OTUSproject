@@ -16,3 +16,4 @@ class UserListResponse(BaseModel):
     total: int
     total_pages: int
     data: list[UserData]
+

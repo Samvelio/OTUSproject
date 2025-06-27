@@ -18,3 +18,4 @@ class BasePage:
 
     def click(self, locator):
         self.find_element(locator).click()
+

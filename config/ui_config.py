@@ -7,3 +7,4 @@ class UIConfig:
     PROBLEM_USER = "problem_user"
     BROWSER = "chrome"
     HEADLESS = True
+
