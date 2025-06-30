@@ -1,0 +1,7 @@
+pytest==7.4.0
+selenium==4.10.0
+requests==2.31.0
+pydantic==2.0.3
+allure-pytest==2.13.2
+webdriver-manager==4.0.2
+pytest-xdist==3.3.1
