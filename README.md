@@ -12,5 +12,5 @@
 
 
 - Некоторые тесты оставил зафейленными, так как об этом говорили на созвоне по проектной работе
-- Ссылка на запись экрана с запуском тестов: https://disk.yandex.ru/i/T1RCxsoDVbgvKw
+- Ссылка на запись экрана с запуском тестов: [https://disk.yandex.ru/i/T1RCxsoDVbgvKw](https://disk.yandex.ru/i/XebBpMBbTIcL8Q)
 - 
